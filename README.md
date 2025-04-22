@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Büşra Kurun!</h1>
+<h3 align="center">🎓 Senior Computer Engineering Student | Industrial Engineering Minor | Based in İzmir</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=busrakurunceng&label=Profile%20views&color=0e75b6&style=flat" alt="busrakurunceng" /> </p>
 
 - 🔭 I’m currently working as a **Data Science Intern at VeriPark**
