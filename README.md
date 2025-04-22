@@ -17,7 +17,7 @@
 </p>
 
 ## 🏆 Achievements
-- 🏅 **5th Place at Teknofest 2024** (AI Track)
+- 🏅 **5th Place at Teknofest 2024**
 - 🥉 **3rd Place in an Innovation Competition** with my project **MindMate**
 - 💼 Working on real-world AI projects with corporate and startup teams
 
