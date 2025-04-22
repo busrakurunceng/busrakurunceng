@@ -20,9 +20,11 @@
 </p>
 
 ## 🏆 Achievements
-- 🏅 **5th Place at Teknofest 2024**
-- 🥉 **3rd Place in an Innovation Competition** with my project **MindMate**
-- 💼 Working on real-world AI projects with corporate and startup teams
+- 🏅 **5th Place at Teknofest 2024** – Psychological Technologies Category  
+- 🥉 **3rd Place in an Innovation Competition** with my project **MindMate**  
+- 🎯 **Finalist at Teknofest 2024 – Turkish NLP Competition** with team **Dilbazlar**  
+- 🥇 **1st Place in Battle of Minds 2024 – Turkey Final**  
+- 🧠 **Excellence Seal** from **TÜBİTAK BIGG 2024 Investment Call** 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=busrakurunceng&label=Profile%20views&color=0e75b6&style=flat" alt="busrakurunceng" /> </p>
 
