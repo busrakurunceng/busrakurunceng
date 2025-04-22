@@ -5,7 +5,7 @@
 
 - 👯 I’m currently working as a **a team member of Psynexa, an AI-powered wellness startup.**
 
-- 🤝 My focus is on ****Natural Language Processing (NLP)**, **emotion-aware systems**, and **LLMs**.**
+- 🤝 My focus is on Natural Language Processing (NLP), **emotion-aware systems**, and **LLMs**.**
 
 - 📫 How to reach me **busrakurunceng@gmail.com**
 
