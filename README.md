@@ -13,12 +13,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/büşra-kurun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="büşra-kurun" height="30" width="40" /></a>
 <a href="https://kaggle.com/brakurun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="brakurun" height="30" width="40" /></a>
-    <a href="https://medium.com/@busraakurun" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium-busraakurun" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@busraakurun" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube-WRITE USERNAME HERE" height="30" width="40" />
-  </a>
+<a href="https://medium.com/@busraakurun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@busraakurun" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/büşra kurun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="büşra kurun" height="30" width="40" /></a>
+</p>
 <a href="https://instagram.com/busrakurun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="busrakurun" height="30" width="40" /></a>
 </p>
 
