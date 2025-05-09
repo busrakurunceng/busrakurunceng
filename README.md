@@ -19,6 +19,7 @@
 </p>
 
 ## 🏆 Achievements
+- 🏅 **Finalist at Teknofest 2025** – Psychological Technologies Category(in progress)
 - 🏅 **5th Place at Teknofest 2024** – Psychological Technologies Category  
 - 🥉 **3rd Place in an Innovation Competition** with my project **MindMate**  
 - 🎯 **Finalist at Teknofest 2024 – Turkish NLP Competition** with team **Dilbazlar**  
