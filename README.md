@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Büşra Kurun!</h1>
 <h3 align="center">🎓 Senior Computer Engineering Student | Industrial Engineering Minor | Based in İzmir</h3>
+<h4 align="center">Junior Data Analysist</h4>
+
 
 - 🔭 I’m currently working as a **Data Science Intern at VeriPark**
 
