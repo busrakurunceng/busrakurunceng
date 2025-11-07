@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Büşra Kurun!</h1>
 <h2 align="center">Junior Data Analysist</h2>
-<h3 align="center">🎓 Senior Computer Engineering Student | Industrial Engineering Minor | Based in İzmir</h3>
+<h3 align="center">🎓 Computer Engineer  | Industrial Engineer | Based in İzmir</h3>
 
 
 - 🔭 I’m currently working as a **Data Scientist at Logo Yazılım!
@@ -21,7 +21,7 @@
 </p>
 
 ## 🏆 Achievements
-- 🏅 **Finalist at Teknofest 2025** – Psychological Technologies Category(in progress)
+- 🏅 **Finalist at Teknofest 2025** – Psychological Technologies Category
 - 🏅 **5th Place at Teknofest 2024** – Psychological Technologies Category  
 - 🥉 **3rd Place in an Innovation Competition** with my project **MindMate**  
 - 🎯 **Finalist at Teknofest 2024 – Turkish NLP Competition** with team **Dilbazlar**  
