@@ -3,7 +3,7 @@
 <h3 align="center">🎓 Computer Engineer  | Industrial Engineer | Based in İzmir</h3>
 
 
-- 🔭 I’m currently working as a **Data Scientist at Logo Yazılım!
+- 🔭 I’m currently working as a **Data Scientist at Logo Yazılım!**
 
 - 👯 I’m currently working as a **a team member of Psynexa, an AI-powered wellness startup.**
 
