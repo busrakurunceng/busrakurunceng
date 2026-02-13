@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Büşra Kurun!</h1>
-<h2 align="center">Junior Data Analysist</h2>
+<h2 align="center">Junior Data Scientist</h2>
 <h3 align="center">🎓 Computer Engineer  | Industrial Engineer | Based in İzmir</h3>
 
 
